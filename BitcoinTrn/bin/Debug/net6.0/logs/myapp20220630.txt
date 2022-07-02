@@ -1,0 +1,5 @@
+2022-06-30 21:04:33.513 +03:00 [INF] Hello, world!
+2022-06-30 21:04:33.554 +03:00 [DBG] Dividing 10 by 0
+2022-06-30 21:04:33.565 +03:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at SerilogExample.Program.Main() in C:\Users\mark_\OneDrive\Документы\GitHub\BitcoinTrn\BitcoinTrn\Program.cs:line 22

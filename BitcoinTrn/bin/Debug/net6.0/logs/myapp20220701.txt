@@ -1,0 +1,7 @@
+2022-07-01 11:54:36.347 +03:00 [INF] Hello, world!
+2022-07-01 11:54:46.219 +03:00 [INF] Hello, world!
+2022-07-01 11:54:56.218 +03:00 [INF] Hello, world!
+2022-07-01 11:56:01.452 +03:00 [INF] Hello, world!
+2022-07-01 11:56:01.581 +03:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at QuartzSampleApp.HelloJob.Execute(IJobExecutionContext context) in C:\Users\mark_\OneDrive\Документы\GitHub\BitcoinTrn\BitcoinTrn\Program.cs:line 68
